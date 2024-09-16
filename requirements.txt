@@ -1,0 +1,10 @@
+pandas
+matplotlib
+numpy==1.26.3
+scikit-learn
+openpyxl
+Jinja2
+pydotplus
+imblearn
+shap==0.44.1
+ipykernel
